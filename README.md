@@ -1,48 +1,79 @@
-# Backend Developer in Japan👋
-### Just 22 years old 
-### Feel free to contact me anytime!👍
-#
-![Foo_name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Foo_name&show_icons=true&theme=vue-dark)
+<!-- 🌊 Welcome Header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&animation=twinkling" />
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Foo_name&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Foo_name&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![My Twitter Followers](https://badgen.net/twitter/follow/Masa36940064)](https://twitter.com/Masa36940064)
-
-
-# NOW TRAINING
-
-<p align="left">
-<a href="https://twitter.com/[Foo]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="[Foo]" height="30" width="40" /></a>
-<a href="[Foo_email]"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=[Foo_email]"/></a>
-</p>
-
-
-
-# My Skill (Programming Languages, Frameworks and Tools)
-
-<img src="https://skillicons.dev/icons?i=html,css,js,mysql,github,vscode,docker,php,python" /> <br /><br />
-
-  ※Another skill and tools
-  Codeigniter, Virtual Box, CakePHP, CircleCI and so on.
-  
-# NOW TRAINING
-
-<img src="https://skillicons.dev/icons?i=docker,vscode,github" /> <br /><br />
-
-
-<!-- --------------------------------- :) ---------------------------------- -->
-
-<br><br><br>
+<h1 align="center">🌟 Welcome to My GitHub Profile!</h1>
 
 <div align="center">
-    <h1>
-        <img src="https://user-images.githubusercontent.com/44926913/175852850-3fb6c715-1856-41ff-8c1f-94ce3b03b458.gif">・・
-        <img src="https://user-images.githubusercontent.com/44926913/175853109-f8850656-6704-4a8a-bee6-9aca154d929b.gif">・・
-        <img src="https://user-images.githubusercontent.com/44926913/175853154-5449d974-975e-44a6-ab84-a86031265e40.gif">・・・・
-        <img src="https://user-images.githubusercontent.com/44926913/175853109-f8850656-6704-4a8a-bee6-9aca154d929b.gif">・
-        <img src="https://user-images.githubusercontent.com/44926913/175853154-5449d974-975e-44a6-ab84-a86031265e40.gif">・・・・
-    </h1>
-  </div>
-<br><br><br>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Masaki+%F0%9F%91%8B;Backend+%2F+Flutter+Developer+%F0%9F%9A%80;Mobile+App+%26+Math+Enthusiast+%E2%9C%A8;Always+Learning+New+Things+%F0%9F%93%9A" />
+</div>
+
+---
+
+## 🙋‍♂️ About Me
+
+<table>
+<tr>
+<td align="center" width="200">
+  <img src="https://skillicons.dev/icons?i=python" width="100" height="100" alt="Python" />
+  <br><strong>Python</strong>
+</td>
+<td align="left" width="400">
+
+### 👋 Hi, I'm Masaki!
+- 🎓 Teacher & Graduate Student at a Professional School of Education  
+- 🛠️ Learning: `Python`, `GitHub`, `Docker`  
+- ☕ Interests: Mobile App Dev & Mathematics  
+- 📫 Contact: **m254201n@st.u-gakugei.ac.jp**
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,javascript,python,php,docker" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nov11masaki&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nov11masaki&layout=compact&theme=radical" height="150" />
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nov11masaki&theme=transparent&border_radius=10&starting_year=2020" />
+</div>
+
+---
+
+## 📊 GitHub Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nov11masaki&custom_title=Masaki's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
+</div>
+
+---
+
+## 🧁 Footer
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/44926913/175852850-3fb6c715-1856-41ff-8c1f-94ce3b03b458.gif" height="30">
+  <img src="https://user-images.githubusercontent.com/44926913/175853109-f8850656-6704-4a8a-bee6-9aca154d929b.gif" height="30">
+  <img src="https://user-images.githubusercontent.com/44926913/175853154-5449d974-975e-44a6-ab84-a86031265e40.gif" height="30">
+</p>
