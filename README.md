@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Masaki+%F0%9F%91%8B;Backend+%2F+Flutter+Developer+%F0%9F%9A%80;Mobile+App+%26+Math+Enthusiast+%E2%9C%A8;Always+Learning+New+Things+%F0%9F%93%9A" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Masaki+%F0%9F%91%8B;+elementary+Teacher+%E2%9C%A8;Always+Learning+New+Things+%F0%9F%93%9A" />
 </div>
 
 ---
