@@ -23,13 +23,12 @@
   <img src="https://skillicons.dev/icons?i=python" width="100" height="100" alt="Python" />
   <br><strong>Python</strong>
 </td>
-<td align="left" width="400">
+<td align="center" width="600">
 
 ### 👋 Hi, I'm Masaki!
-- 🎓 Teacher & Graduate Student at a Professional School of Education  
-- 🛠️ Learning: `Python`, `GitHub`, `Docker`  
-- ☕ Interests: Mobile App Dev & Mathematics  
-- 📫 Contact: **m254201n@st.u-gakugei.ac.jp**
+  Teacher & Graduate Student at a Professional School of Education    
+  Interests: Mobile App Dev & Mathematics  
+  Contact: **m254201n@st.u-gakugei.ac.jp**
 
 </td>
 </tr>
@@ -61,16 +60,6 @@
 </div>
 
 ---
-
-## 📊 GitHub Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nov11masaki&custom_title=Masaki's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
-</div>
-
----
-
-## 🧁 Footer
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/44926913/175852850-3fb6c715-1856-41ff-8c1f-94ce3b03b458.gif" height="30">
