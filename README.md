@@ -1,9 +1,6 @@
 <!-- 🌊 Welcome Header -->
-
-<table align="center">
-
-</table>">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Masaki's%20GitHub&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32" />
+<div align="center">
+  <img src="https://capsule-re## 🚀 注目プロジェクトder.vercel.app/api?typ## 📈 GitHub統計=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Masaki's%20GitHub&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32" />
 </div>
 
 <div align="center">
@@ -22,32 +19,33 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🎯 Who Am I?
-- 🎓 **教職大学院生** 
-- 💡 **情報技術と教育の融合** 
+###  基本情報
+-  年齢: 22歳
+-  所在地: 東京, 日本
+-  専門分野: 教育工学、数学教育
+-  職業: 教職大学院生
+-  言語: 日本語, 英語
+-  連絡先: m254201n@st.u-gakugei.ac.jp
 
-### 🌟 Current Focus
+### 🎓 所持資格
+- 高等学校教諭一種免許状(数学)
+- 高等学校教諭一種免許状(情報)
+- 中学校教諭一種免許状(数学)
+- 小学校教諭一種免許状
+- 幼稚園教諭一種免許状
+- 基本情報技術者試験
+
+</td>
+<td width="50%" valign="top">
+### 🌟 関心
 - 📚 **学習中**: 機械学習、LLM
 - 🔬 **研究**: 生成AIと対話をしながらの授業
 - 🏗️ **開発**: 学習を楽しくアクセスしやすくするアプリ
 
-</td>
-<td width="50%" valign="top">
-
-###  Quick Stats
-```text
-🎂 年齢: 教職大学院生
-🏠 所在地: 東京, 日本
-🎓 専門分野: 教育工学、数学教育
-💼 職業: 教員 & 開発者
-🌐 言語: 日本語, 英語
-📧 連絡先: m254201n@st.u-gakugei.ac.jp
-```
-
-### 趣味
--  映画鑑賞
--  音楽を聴く
--　ディズニー
+### 🎨 趣味
+- 🎬 映画鑑賞
+- 🎵 音楽を聴く
+- 🏰 ディズニー
 
 </td>
 </tr>
@@ -89,26 +87,22 @@
 
 **📱 EduLearn モバイルアプリ**
 - 小学生向け教育アプリ
-- インタラクティブな算数・理科レッスン
+- インタラクティブな算数・理科
 - 教師向け進捗追跡機能
 
 </td>
 <td width="50%">
 
-**🏫 教室アシスタント**
-- ウェブベースの教室管理ツール
-- 出席・成績管理
-- 保護者連絡ポータル
+**🏫 授業支援アプリ
 
 </td>
 </tr>
 </table>
 
 ### 💡 研究分野
-- **教育技術統合**
+- **教育と情報技術の統合**
 - **モバイル学習アプリケーション**
-- **小学校教育における計算思考**
-- **技術における教師の専門能力開発**
+- **小学校教育における言語活動の支援**
 
 </div>
 
@@ -147,8 +141,7 @@
 
 ### 🎯 2025年の目標
 - [ ] 教育アプリをリリース
-- [ ] EdTechに関する研究論文を発表
-- [ ] 5つのオープンソースプロジェクトに貢献
+- [ ] 生成AIを活用した授業提案
 - [ ] 算数と理科の教え方を学ぶ
 
 </div>
@@ -186,5 +179,5 @@
 </div>
 
 <div align="center">
-  <sub>✨ 教育と技術への情熱で作られています ✨</sub>
+  <sub>✨ Integrate and ∫eel good ✨</sub>
 </div>
