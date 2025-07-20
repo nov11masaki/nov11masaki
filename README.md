@@ -1,6 +1,6 @@
 <!-- 🌊 Welcome Header -->
 <div align="center">
-  <img src="https://capsule-re## 🚀 注目プロジェクトder.vercel.app/api?typ## 📈 GitHub統計=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Masaki's%20GitHub&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32" />
+  <img src="https://capsule-ren## 🚀 注目プロジェクトer.vercel.app/api?typ## 📈 GitHub統計=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Masaki's%20GitHub&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32" />
 </div>
 
 <div align="center">
@@ -19,13 +19,13 @@
 <tr>
 <td width="50%" valign="top">
 
-###  基本情報
--  年齢: 22歳
--  所在地: 東京, 日本
--  専門分野: 教育工学、数学教育
--  職業: 教職大学院生
--  言語: 日本語, 英語
--  連絡先: m254201n@st.u-gakugei.ac.jp
+### 📊 基本情報
+- 🎂 年齢: 22歳
+- 🏠 所在地: 東京, 日本
+- 🎓 専門分野: 教育工学、数学教育
+- 💼 職業: 教職大学院生
+- 🌐 言語: 日本語, 英語
+- 📧 連絡先: m254201n@st.u-gakugei.ac.jp
 
 ### 🎓 所持資格
 - 高等学校教諭一種免許状(数学)
@@ -37,6 +37,7 @@
 
 </td>
 <td width="50%" valign="top">
+
 ### 🌟 関心
 - 📚 **学習中**: 機械学習、LLM
 - 🔬 **研究**: 生成AIと対話をしながらの授業
@@ -76,7 +77,7 @@
 
 ---
 
-## � Featured Projects
+##  Featured Projects
 
 <div align="center">
 
@@ -93,22 +94,25 @@
 </td>
 <td width="50%">
 
-**🏫 授業支援アプリ
+**🏫 授業支援アプリ**
+- 生成AIを活用した授業支援ツール
+- 学習進度の可視化
+- 個別指導サポート
 
 </td>
 </tr>
 </table>
 
 ### 💡 研究分野
+- **小学校教育における生成AIでの言語活動の支援**
 - **教育と情報技術の統合**
 - **モバイル学習アプリケーション**
-- **小学校教育における言語活動の支援**
 
 </div>
 
 ---
 
-## �📈 GitHub Analytics
+### GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nov11masaki&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" height="180" />
