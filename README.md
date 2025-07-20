@@ -22,14 +22,12 @@
 <td width="50%" valign="top">
 
 ### 📊 基本情報
-```yaml
-年齢: 22歳
-所在地: 東京, 日本
-専門分野: 教育工学・数学教育
-職業: 教職大学院生
-言語: 日本語・英語
-連絡先: m254201n@st.u-gakugei.ac.jp
-```
+- 年齢: 22歳
+- 所在地: 東京, 日本
+- 専門分野: 教育工学・数学教育
+- 職業: 教職大学院生
+- 言語: 日本語・英語
+- 連絡先: m254201n@st.u-gakugei.ac.jp
 
 ### 🎓 所持資格
 - `高等学校教諭一種` 数学・情報
@@ -44,9 +42,9 @@
 ### 🌟 現在の関心事
 ```python
 learning = {
-    "技術": ["機械学習", "LLM", "Python"],
-    "研究": ["生成AI × 教育", "言語活動支援"],
-    "開発": ["教育アプリ", "授業支援ツール"]
+    - 技術: 機械学習, LLM, Python
+    - 研究: 生成AI × 教育, 言語活動支援
+    - 開発: 教育アプリ， 授業支援ツール
 }
 ```
 
@@ -76,19 +74,12 @@ learning = {
 
 ### 🔧 開発ツール & 環境
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,figma" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,docker" />
 </p>
 
-### � データベース & クラウド
+###  データベース & クラウド
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,firebase" />
-</p>
-
-### 🎓 教育関連ツール
-<p>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=scratch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 </div>
@@ -104,27 +95,21 @@ learning = {
 <table>
 <tr>
 <td width="50%" align="center">
-<img width="80%" src="https://via.placeholder.com/400x200/36BCF7/ffffff?text=📱+EduLearn" />
 
 **📱 EduLearn モバイルアプリ**
-```
-小学生向け教育アプリ
-インタラクティブな算数・理科レッスン
-教師向け進捗追跡機能
-```
-`Python` `Kivy` `SQLite`
+- 小学生向け教育アプリ
+- インタラクティブな算数・理科レッスン
+- 教師向け進捗追跡機能
 
 </td>
 <td width="50%" align="center">
-<img width="80%" src="https://via.placeholder.com/400x200/F85D7F/ffffff?text=🏫+AI+Assistant" />
 
 **🏫 授業支援アプリ**
-```
-生成AIを活用した授業支援ツール
-学習進度の可視化
-個別指導サポート
-```
-`OpenAI API` `Streamlit` `Python`
+- 生成AIを活用した授業支援ツール
+- 学習進度の可視化
+- 個別指導サポート
+
+`OpenAI API`  `Python`
 
 </td>
 </tr>
@@ -192,9 +177,9 @@ learning = {
   
 | 🎯 目標 | 📅 期限 | 🚀 進捗 |
 |---------|---------|---------|
-| 📱 教育アプリリリース | 2025年夏 | ![30%](https://progress-bar.dev/30) |
-| 📝 研究論文発表 | 2025年秋 | ![20%](https://progress-bar.dev/20) |
-| 🤖 AI授業ツール開発 | 2025年春 | ![50%](https://progress-bar.dev/50) |
+| 📱 教育アプリリリース | 2025年夏 | ![30%] |
+| 📝 研究論文発表 | 2025年秋 | ![20%]|
+| 🤖 AI授業ツール開発 | 2025年春 | ![50%] |
 
 </div>
 
@@ -213,9 +198,6 @@ learning = {
   </a>
   <a href="https://github.com/nov11masaki">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/nov11masaki">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
 
