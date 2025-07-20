@@ -145,7 +145,7 @@
 
 <div align="center">
 
-### 📚 現在探求中
+### 📚 現在研究中
 <table>
 <tr>
 <td align="center" width="33%">
