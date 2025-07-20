@@ -1,26 +1,40 @@
 <!-- 🌊 Welcome Header -->
-<div alig## 🙋‍♂️ 自己紹介
+
+<table align="center">
+
+</table>">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Masaki's%20GitHub&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=800&height=70&lines=👋+こんにちは！まさきです;🏫+小学校の先生+%26+教職大学院生;💻+教育テクノロジーと数学,理科;📱+より良い教育のためのアプリ開発;🌱+常に学び続けています" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+</div>
+
+---
+
+## 🙋‍♂️ 自己紹介
 
 <table align="center">
 <tr>
 <td width="50%" valign="top">
 
-### 🎯 私## 🚀 注目プロジェクトついて
-- 🏫 教育に情熱を持つ**小学校## 📈 GitHub 統計員**
-- 🎓 教職大学院の**大学院生**
-- 💡 教育とテクノロジーをつなぐ**EdTech愛好家**
-- 🧮 計算思考を探求する**数学愛好家**
+### 🎯 Who Am I?
+- 🎓 **教職大学院生** 
+- 💡 **情報技術と教育の融合** 
 
-### 🌟 現在の活動
-- 📚 **学習中**: iOS開発のためのPython
-- 🔬 **研究**: 教育技術の統合
+### 🌟 Current Focus
+- 📚 **学習中**: 機械学習、LLM
+- 🔬 **研究**: 生成AIと対話をしながらの授業
 - 🏗️ **開発**: 学習を楽しくアクセスしやすくするアプリ
-- 👥 **教育**: 現代の教室技術
 
 </td>
 <td width="50%" valign="top">
 
-### 📊 基本情報
+###  Quick Stats
 ```text
 🎂 年齢: 教職大学院生
 🏠 所在地: 東京, 日本
@@ -30,62 +44,10 @@
 📧 連絡先: m254201n@st.u-gakugei.ac.jp
 ```
 
-### 🎨 趣味・興味
+### 趣味
 -  映画鑑賞
--  数学の大学入試問題を解く
-- 
-
-</td>
-</tr>
-</table>">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Masaki's%20GitHub&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=800&height=70&lines=👋+こんにちは！まさきです;🏫+小学校教員+%26+大学院生;💻+教育テクノロジーと数学に情熱;📱+より良い教育のためのアプリ開発;🌱+常に学び続けています" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-</div>
-
----
-
-## 🙋‍♂️ About Me
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-### 🎯 Who Am I?
-- 🏫 **Elementary School Teacher** passionate about education
-- 🎓 **Graduate Student** at Professional School of Education
-- 💡 **EdTech Enthusiast** bridging education and technology
-- 🧮 **Mathematics Lover** exploring computational thinking
-
-### 🌟 Current Focus
-- 📚 **Learning**: Python  for iOS development
-- 🔬 **Researching**: Educational technology integration
-- 🏗️ **Building**: Apps that make learning fun and accessible
-- 👥 **Teaching**: Modern classroom technology
-
-</td>
-<td width="50%" valign="top">
-
-### � Quick Stats
-```text
-🎂 Age: Graduate Student
-🏠 Location: Tokyo, Japan
-🎓 Field: Education Technology
-💼 Role: Teacher & Developer
-🌐 Languages: Japanese, English
-📧 Contact: m254201n@st.u-gakugei.ac.jp
-```
-
-### 🎨 Fun Facts
-- 🏃‍♂️ Enjoy running for mental clarity
-- 📖 Always reading tech blogs
-- ☕ Powered by coffee and curiosity
+-  音楽を聴く
+-　ディズニー
 
 </td>
 </tr>
