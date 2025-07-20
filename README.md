@@ -1,10 +1,48 @@
 <!-- 🌊 Welcome Header -->
-<div align="center">
+<div alig## 🙋‍♂️ 自己紹介
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 私## 🚀 注目プロジェクトついて
+- 🏫 教育に情熱を持つ**小学校## 📈 GitHub 統計員**
+- 🎓 教職大学院の**大学院生**
+- 💡 教育とテクノロジーをつなぐ**EdTech愛好家**
+- 🧮 計算思考を探求する**数学愛好家**
+
+### 🌟 現在の活動
+- 📚 **学習中**: iOS開発のためのPython
+- 🔬 **研究**: 教育技術の統合
+- 🏗️ **開発**: 学習を楽しくアクセスしやすくするアプリ
+- 👥 **教育**: 現代の教室技術
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 基本情報
+```text
+🎂 年齢: 教職大学院生
+🏠 所在地: 東京, 日本
+🎓 専門分野: 教育工学、数学教育
+💼 職業: 教員 & 開発者
+🌐 言語: 日本語, 英語
+📧 連絡先: m254201n@st.u-gakugei.ac.jp
+```
+
+### 🎨 趣味・興味
+-  映画鑑賞
+-  数学の大学入試問題を解く
+- 
+
+</td>
+</tr>
+</table>">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Masaki's%20GitHub&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=800&height=70&lines=👋+Hey+there!+I'm+Masaki;🏫+Elementary+Teacher+%26+Graduate+Student;💻+Passionate+about+EdTech+%26+Mobile+Development;📱+Building+Apps+for+Better+Education;🌱+Always+Learning+%26+Growing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=800&height=70&lines=👋+こんにちは！まさきです;🏫+小学校教員+%26+大学院生;💻+教育テクノロジーと数学に情熱;📱+より良い教育のためのアプリ開発;🌱+常に学び続けています" />
 </div>
 
 <div align="center">
@@ -23,11 +61,10 @@
 - 🏫 **Elementary School Teacher** passionate about education
 - 🎓 **Graduate Student** at Professional School of Education
 - 💡 **EdTech Enthusiast** bridging education and technology
-- 📱 **Mobile App Developer** creating learning solutions
 - 🧮 **Mathematics Lover** exploring computational thinking
 
 ### 🌟 Current Focus
-- 📚 **Learning**: Swift for iOS development
+- 📚 **Learning**: Python  for iOS development
 - 🔬 **Researching**: Educational technology integration
 - 🏗️ **Building**: Apps that make learning fun and accessible
 - 👥 **Teaching**: Modern classroom technology
@@ -46,10 +83,8 @@
 ```
 
 ### 🎨 Fun Facts
-- 🎮 Love educational games
 - 🏃‍♂️ Enjoy running for mental clarity
 - 📖 Always reading tech blogs
-- 🎵 Code to lo-fi music
 - ☕ Powered by coffee and curiosity
 
 </td>
@@ -58,31 +93,23 @@
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ 技術スタック & ツール
 
 <div align="center">
 
-### 💻 Programming Languages
+### 💻 プログラミング言語
 <p>
   <img src="https://skillicons.dev/icons?i=python,javascript,php,java,html,css" />
 </p>
 
-### 🔧 Development Tools
+### 🔧 開発ツール
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,xcode,git,github,docker,figma" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,docker" />
 </p>
 
-### 📱 Mobile & Web
+### 📱 モバイル & ウェブ
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,mysql,firebase" />
-</p>
-
-### 🎓 Education & Research
-<p>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 </div>
@@ -93,35 +120,33 @@
 
 <div align="center">
 
-### 🎯 Current Projects
+### 🎯 現在のプロジェクト
 <table>
 <tr>
 <td width="50%">
 
-**📱 EduLearn Mobile App**
-- iOS educational app for elementary students
-- Interactive math and science lessons
-- Progress tracking for teachers
-- `Swift` `UIKit` `Core Data`
+**📱 EduLearn モバイルアプリ**
+- 小学生向け教育アプリ
+- インタラクティブな算数・理科レッスン
+- 教師向け進捗追跡機能
 
 </td>
 <td width="50%">
 
-**🏫 ClassRoom Assistant**
-- Web-based classroom management tool
-- Student attendance and grade tracking
-- Parent communication portal
-- `React` `Node.js` `MongoDB`
+**🏫 教室アシスタント**
+- ウェブベースの教室管理ツール
+- 出席・成績管理
+- 保護者連絡ポータル
 
 </td>
 </tr>
 </table>
 
-### 💡 Research Areas
-- **Educational Technology Integration**
-- **Mobile Learning Applications**
-- **Computational Thinking in Elementary Education**
-- **Teacher Professional Development in Tech**
+### 💡 研究分野
+- **教育技術統合**
+- **モバイル学習アプリケーション**
+- **小学校教育における計算思考**
+- **技術における教師の専門能力開発**
 
 </div>
 
@@ -144,43 +169,31 @@
 
 ---
 
-## 🌱 Learning Journey
+## 🌱 学習の旅
 
 <div align="center">
 
-### 📚 Currently Exploring
+### 📚 現在探求中
 <table>
 <tr>
-<td align="center" width="33%">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="80" height="80" />
-  <br><strong>Swift & iOS Development</strong>
-  <br><em>Building native educational apps</em>
-</td>
-<td align="center" width="33%">
+<td align="center" width="50%">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="80" height="80" />
-  <br><strong>Machine Learning</strong>
-  <br><em>AI in educational contexts</em>
-</td>
-<td align="center" width="33%">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="80" height="80" />
-  <br><strong>UI/UX Design</strong>
-  <br><em>Creating intuitive learning experiences</em>
-</td>
+  <br><strong>機械学習</strong>
+  <br><em>教育文脈でのAI</em>
 </tr>
 </table>
 
-### 🎯 2024 Goals
-- [ ] Launch first iOS app on App Store
-- [ ] Complete advanced Swift course
-- [ ] Publish research paper on EdTech
-- [ ] Contribute to 5 open source projects
-- [ ] Mentor junior developers
+### 🎯 2025年の目標
+- [ ] 教育アプリをリリース
+- [ ] EdTechに関する研究論文を発表
+- [ ] 5つのオープンソースプロジェクトに貢献
+- [ ] 算数と理科の教え方を学ぶ
 
 </div>
 
 ---
 
-## 🤝 Let's Connect!
+## 🤝 つながりましょう！
 
 <div align="center">
 
@@ -190,17 +203,13 @@
   </a>
   <a href="https://github.com/nov11masaki">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/masaki-nov11">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
 </p>
 
-### 💭 Open to collaborate on:
-- 🎓 Educational technology projects
-- 📱 Mobile apps for learning
-- 🔬 EdTech research initiatives
-- 👥 Teacher training programs
+### 💭 以下での協力を歓迎します:
+- 🎓 教育技術プロジェクト
+- 📱 学習用モバイルアプリ
+- 🔬 EdTech研究イニシアチブ
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nov11masaki&style=for-the-badge&color=brightgreen" />
@@ -215,5 +224,5 @@
 </div>
 
 <div align="center">
-  <sub>✨ Made with passion for education and technology ✨</sub>
+  <sub>✨ 教育と技術への情熱で作られています ✨</sub>
 </div>
