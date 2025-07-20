@@ -40,13 +40,9 @@
 <td width="50%" valign="top">
 
 ### 🌟 現在の関心事
-```python
-learning = {
     - 技術: 機械学習, LLM, Python
     - 研究: 生成AI × 教育, 言語活動支援
     - 開発: 教育アプリ， 授業支援ツール
-}
-```
 
 ### 🎨 趣味・娯楽
 <div align="center">
