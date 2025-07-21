@@ -166,16 +166,6 @@
   </a>
 </p>
 
-<br>
-
-### 💭 協力歓迎分野
-<div align="center">
-  <img src="https://img.shields.io/badge/🎓_教育技術プロジェクト-FF6B6B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/📱_学習アプリ開発-4ECDC4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🔬_EdTech研究-45B7D1?style=for-the-badge" />
-</div>
-
-<br>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nov11masaki&style=for-the-badge&color=brightgreen" />
@@ -190,5 +180,5 @@
 </div>
 
 <div align="center">
-  <sub>✨ 教育と技術への情熱で作られています ✨</sub>
+  <sub>✨ integrate and ∫eel happy ✨</sub>
 </div>
