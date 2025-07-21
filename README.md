@@ -82,37 +82,6 @@
 
 ---
 
-## 🚀 注目プロジェクト
-
-<div align="center">
-
-### 🎯 現在のプロジェクト
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-**📱 EduLearn モバイルアプリ**
- 生成AIを活用した授業デザイン
- 機械学習を組み込んだ授業アプリ
- 教師向け進捗追跡機能
-
-</td>
-<td width="50%" align="center">
-
-**🏫 授業支援アプリ**
- 生成AIを活用した授業支援ツール
- 学習進度の可視化
- 個別指導サポート
-
-`OpenAI API`  `Python`
-
-</td>
-</tr>
-</table>
-
-<br>
-
 ### 💡 研究分野
 <div align="center">
   <img src="https://img.shields.io/badge/🤖_生成AI教育-FF6B6B?style=for-the-badge&logoColor=white" />
@@ -141,7 +110,7 @@
 
 ---
 
-## 🌱 学習の旅
+## 🌱 学習
 
 <div align="center">
 
