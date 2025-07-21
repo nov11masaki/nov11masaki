@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=800&height=70&lines=👋+こんにちは！まさきです;🏫+小学校の先生+%26+教職大学院生;💻+教育テクノロジーと数学,理科;📱+より良い教育のためのアプリ開発;🌱+常に学び続けています" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=800&height=70&lines=👋+こんにちは！まさきです;🏫+小学校の先生+%26+教職大学院生;💻+情報技術と数学,理科;📱+より良い教育のためのアプリ開発;🌱+常に学び続けています" />
 </div>
 
 <div align="center">
@@ -93,8 +93,8 @@
 <td width="50%" align="center">
 
 **📱 EduLearn モバイルアプリ**
-- 小学生向け教育アプリ
-- インタラクティブな算数・理科レッスン
+- 生成AIを活用した授業デザイン
+- 機械学習を組み込んだ授業アプリ
 - 教師向け進捗追跡機能
 
 </td>
@@ -173,9 +173,9 @@
   
 | 🎯 目標 | 📅 期限 | 🚀 進捗 |
 |---------|---------|---------|
-| 📱 教育アプリリリース | 2025年夏 | 30%|
+| 📱 教育アプリリリース | 2025年秋 | 30%|
 | 📝 研究論文発表 | 2025年秋 | 20%|
-| 🤖 AI授業ツール開発 | 2025年春 | 50% |
+| 🤖 AI授業ツール開発 | 2025年秋 | 50% |
 
 </div>
 
