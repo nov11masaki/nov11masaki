@@ -1,3 +1,20 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="700">
-</div>
+<h1 align="center">
+  Hi there, I'm nov11masaki 👋
+</h1>
+
+---
+
+##  私について
+
+**所属:** 都内の某大学院 <br>
+**専門:** 教育工学、数学教育 <br>
+**興味:** 数学教育、理科教育、生成AI <br>
+
+---
+
+##  GitHub Stats
+
+<p align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=nov11masaki&show_icons=true&locale=ja&theme=radical" alt="nov11masaki's GitHub stats" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nov11masaki&layout=compact&locale=ja&theme=radical" alt="Top Langs" />
+</p>
