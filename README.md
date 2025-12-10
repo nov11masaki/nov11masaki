@@ -1,11 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20there,%20I'm%20nov11masaki&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Educational%20Technology%20%26%20Mathematics%20Education&descAlignY=55&descAlign=50" alt="header" />
-</div>
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20B2AA&background=00000000&center=true&vCenter=true&width=435&lines=Educational+Technology;Mathematics+Education;Generative+AI;System+Development" alt="Typing SVG" />
-  </a>
+  <h1>👋 Hi there, I'm nov11masaki</h1>
+  <p><strong>Educational Technology | Mathematics Education | Generative AI</strong></p>
 </div>
 
 ---
@@ -37,24 +32,23 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nov11masaki&show_icons=true&locale=ja&theme=radical&count_private=true" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nov11masaki&layout=compact&locale=ja&theme=radical" height="180" alt="langs" />
+  <img alt="nov11masaki's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=nov11masaki&show_icons=true&theme=dark&hide_border=true" />
 </div>
 
-<br>
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nov11masaki&theme=radical" alt="streak" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nov11masaki&layout=compact&theme=dark&hide_border=true" />
 </div>
 
-<br>
+<div align="center">
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=nov11masaki&theme=dark&hide_border=true" />
+</div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nov11masaki&theme=radical&no-frame=true&column=7" alt="trophy" />
+  <img alt="GitHub Trophy" src="https://github-profile-trophy.vercel.app/?username=nov11masaki&theme=dark&no-frame=true" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="footer" />
+  <p><em>© 2025 nov11masaki | Educational Technology & Mathematics Education</em></p>
 </div>
