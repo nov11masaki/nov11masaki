@@ -5,8 +5,8 @@
 <div align="center">
   <h3>🧪 Science & Math Education Researcher | 🤖 Generative AI</h3>
   <p>
-    最新の情報技術を用いた新たな教育システムを構築しています。<br>
-    学習者の思考を「可視化」し、振り返りや評価に活用する手立てを研究中。
+    最新の情報技術を用いた新たな教育システムを構築し，実践しています。<br>
+    学習者の思考を「可視化」し，振り返りや評価に活用する手立てを研究中。
   </p>
 </div>
 
@@ -15,10 +15,10 @@
 ### 🚀 Featured Projects
 <div align="center">
   <a href="https://github.com/nov11masaki/scienceapp2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nov11masaki&repo=scienceapp2&theme=tokyonight&show_owner=true" alt="ScienceBuddy" />
+    <img src="https://opengraph.githubassets.com/1/nov11masaki/scienceapp2" width="45%" alt="ScienceBuddy" />
   </a>
   <a href="https://github.com/nov11masaki/MathCanvas">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nov11masaki&repo=MathCanvas&theme=tokyonight&show_owner=true" alt="MathCanvas" />
+    <img src="https://opengraph.githubassets.com/1/nov11masaki/MathCanvas" width="45%" alt="MathCanvas" />
   </a>
 </div>
 
