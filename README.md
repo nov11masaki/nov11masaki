@@ -12,6 +12,18 @@
 
 ---
 
+### 🚀 Featured Projects
+<div align="center">
+  <a href="https://github.com/nov11masaki/scienceapp2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nov11masaki&repo=scienceapp2&theme=tokyonight&show_owner=true" alt="ScienceBuddy" />
+  </a>
+  <a href="https://github.com/nov11masaki/MathCanvas">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nov11masaki&repo=MathCanvas&theme=tokyonight&show_owner=true" alt="MathCanvas" />
+  </a>
+</div>
+
+---
+
 ### 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,java,php,py,js,html,css,mysql,docker,git,vscode&theme=dark" />
