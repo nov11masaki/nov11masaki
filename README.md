@@ -27,14 +27,3 @@
 </div>
 
 ---
-
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://raw.githubusercontent.com/nov11masaki/nov11masaki/main/profile-summary-card-output/dark/0-profile-details.svg" width="100%" />
-  <br>
-  <img src="https://raw.githubusercontent.com/nov11masaki/nov11masaki/main/profile-summary-card-output/dark/1-repos-per-language.svg" width="48%" />
-  <img src="https://raw.githubusercontent.com/nov11masaki/nov11masaki/main/profile-summary-card-output/dark/2-most-commit-language.svg" width="48%" />
-  <br>
-  <img src="https://raw.githubusercontent.com/nov11masaki/nov11masaki/main/profile-summary-card-output/dark/3-stats.svg" width="48%" />
-  <img src="https://raw.githubusercontent.com/nov11masaki/nov11masaki/main/profile-summary-card-output/dark/4-productive-time.svg" width="48%" />
-</div>
