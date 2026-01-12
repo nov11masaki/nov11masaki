@@ -9,10 +9,9 @@
 
 **専門:** 🎓 教育工学、📐 数学教育 <br>
 **興味:** 🤖 生成AI、💻 システム開発、📚 理科教育
+- 最新の情報技術を用いた新たなシステムを構築し，実践することを主に行なっています。
 
-> 最新の情報技術を用いた新たなシステムを構築し，実践することを主に行なっています。
-> 学習者がどんなことを考えていたかを間接的にみえるようにして，それらを振り返りや評価に活用できる手立てを考えています。
-
+- 学習者がどんなことを考えていたかを間接的にみえるようにして，それらを振り返りや評価に活用できる手立てを考えています。
 ---
 
 ### 🛠️ Tech Stack & Tools
@@ -30,25 +29,12 @@
 ---
 
 ### 📊 GitHub Stats
-
 <div align="center">
-  <img alt="nov11masaki's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=nov11masaki&show_icons=true&theme=dark&hide_border=true" />
-</div>
-
-<div align="center">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nov11masaki&layout=compact&theme=dark&hide_border=true" />
-</div>
-
-<div align="center">
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=nov11masaki&theme=dark&hide_border=true" />
-</div>
-
-<div align="center">
-  <img alt="GitHub Trophy" src="https://github-profile-trophy.vercel.app/?username=nov11masaki&theme=dark&no-frame=true" />
-</div>
-
----
-
-<div align="center">
-  <p><em>© 2025 nov11masaki | Educational Technology & Mathematics Education</em></p>
+  <img src="https://raw.githubusercontent.com/nov11masaki/nov11masaki/main/profile-summary-card-output/dark/0-profile-details.svg" width="100%" />
+  <br>
+  <img src="https://raw.githubusercontent.com/nov11masaki/nov11masaki/main/profile-summary-card-output/dark/1-repos-per-language.svg" width="48%" />
+  <img src="https://raw.githubusercontent.com/nov11masaki/nov11masaki/main/profile-summary-card-output/dark/2-most-commit-language.svg" width="48%" />
+  <br>
+  <img src="https://raw.githubusercontent.com/nov11masaki/nov11masaki/main/profile-summary-card-output/dark/3-stats.svg" width="48%" />
+  <img src="https://raw.githubusercontent.com/nov11masaki/nov11masaki/main/profile-summary-card-output/dark/4-productive-time.svg" width="48%" />
 </div>
